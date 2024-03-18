@@ -63,4 +63,6 @@ STEP 6: Use zscore of to remove outliers
 ![Screenshot 2024-03-18 083844](https://github.com/JAIGANESHVETRISELVAN/exno1/assets/133752156/3c0f4daa-bea5-46e9-975b-2171150d1cc9)
 
 # Result
+```
 Thus, the given data is read, cleansed and the cleaned data is saved into the file and the given data is read,remove outliers and save a new dataframe was created and executed successfully.
+```

@@ -39,8 +39,9 @@ STEP 6: Use zscore of to remove outliers
  df.head()
  df.info()
  df.isnull().sum()
- ![Screenshot 2024-03-18 082715](https://githu![Screenshot 2024-03-18 082756](https://github.com/JAIGANESHVETRISELVAN/exno1/assets/133752156/cc1c0b3a-d125-4fd0-b310-64c6a2bb89e2)
-b.com/JAIGANESHVETRISELVAN/exno1/assets/133752156/4994a8e6-b39a-4b10-882c-cdf080ff86d9)
+ ![Screenshot 2024-03-18 082715](https://github.com/JAIGANESHVETRISELVAN/exno1/assets/133752156/4994a8e6-b39a-4b10-882c-cdf080ff86d9)
+ ![Screenshot 2024-03-18 082756](https://github.com/JAIGANESHVETRISELVAN/exno1/assets/133752156/cc1c0b3a-d125-4fd0-b310-64c6a2bb89e2)
+
 ![Screenshot 2024-03-18 082741](https://github.com/JAIGANESHVETRISELVAN/exno1/assets/133752156/607c8a40-38e1-4c96-8dc3-3821b39d6416)
 ![Screenshot 2024-03-18 082814](https://github.com/JAIGANESHVETRISELVAN/exno1/assets/133752156/f2c445ba-15ef-4673-960c-f593960ca016)
 ![Screenshot 2024-03-18 082829](https://github.com/JAIGANESHVETRISELVAN/exno1/assets/133752156/b498b1a3-ffe2-4573-87ea-67190202ca96)

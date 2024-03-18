@@ -21,6 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+```
  import pandas as pd
  df=pd.read_csv("/content/Data_set .csv")
  df
@@ -39,6 +40,7 @@ STEP 6: Use zscore of to remove outliers
  df.head()
  df.info()
  df.isnull().sum()
+```
  ![Screenshot 2024-03-18 082715](https://github.com/JAIGANESHVETRISELVAN/exno1/assets/133752156/4994a8e6-b39a-4b10-882c-cdf080ff86d9)
  ![Screenshot 2024-03-18 082756](https://github.com/JAIGANESHVETRISELVAN/exno1/assets/133752156/cc1c0b3a-d125-4fd0-b310-64c6a2bb89e2)
 
